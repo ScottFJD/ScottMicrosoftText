@@ -1,0 +1,24 @@
+git --version
+   22  git config --global user.name "jindong fu"
+   23  git config --global user.email v-jindfu@microsoft.com
+   24  ll
+   25  ssh-keygen
+   26  ll
+   27  cd .ssh
+   28  sudo apt-get install gedit
+   29  gedit -v
+   30  gedit -version
+   31  gedit help
+   32  vim id_rsa.pub 
+   33  gedit id_rsa.pub 
+
+
+   41  git init
+   42  git clone ssh://msasg@vs-ssh.visualstudio.com:22/DefaultCollection/Bing_STC-Asia/_ssh/BingClientSearchSDK
+
+
+
+install sublime
+   47  sudo add-apt-repository ppa:webupd8team/sublime-text-3
+   48  sudo apt-get update
+   49  sudo apt-get install sublime-text-installer
